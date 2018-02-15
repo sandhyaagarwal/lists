@@ -3,4 +3,4 @@
 
 * [Turtles all the way down](https://www.goodreads.com/book/show/35504431-turtles-all-the-way-down)
 
-* [Into the Water](https://www.goodreads.com/book/show/33151805-into-the-water)
+*  [![Into the Water](Into_The_Water.jpg)](https://www.goodreads.com/book/show/33151805-into-the-water)
