@@ -1,6 +1,6 @@
 
 # Books read in 2018
 
-* [Turtles all the way down](https://www.goodreads.com/book/show/35504431-turtles-all-the-way-down)
+[![Turtles All the way Down](Turtles_all_the_Way_down.jpg)](https://www.goodreads.com/book/show/35504431-turtles-all-the-way-down)
 
-*  [![Into the Water](Into_The_Water.jpg)](https://www.goodreads.com/book/show/33151805-into-the-water)
+[![Into the Water](Into_The_Water.jpg)](https://www.goodreads.com/book/show/33151805-into-the-water)
